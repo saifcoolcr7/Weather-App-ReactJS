@@ -16,10 +16,6 @@ function App() {
         <a target="_blank" href="https://www.gauravghai.dev/">
           Md Saif Ali
         </a>{" "}
-        {/* | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
-        </a> */}
       </div>
     </React.Fragment>
   );
